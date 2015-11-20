@@ -114,14 +114,12 @@ I'm confident about my crafts and willing to contribute to the team.
   - Oracle, SQLServer Database design
   -	project management
 
-### Alcatel-Lucent 
-  Lucent Feature Test of 5ESS Group
-
-- Product Verification						07/2000 – 07/2002
-  -	Terminal Maintenance system/feature testing:
-  -	test strategies design
-  -	test plan writing
-  -	test execution and software debugging 
+### Lucent 5ESS Group
+  Feature Test / Product Verification						07/2000 – 07/2002
+-	Terminal Maintenance system/feature testing:
+-	test strategies design
+-	test plan writing
+-	test execution and software debugging 
 
 ## Company community contributions:
 
