@@ -116,10 +116,10 @@ I'm confident about my crafts and willing to contribute to the team.
 
 ### Lucent 5ESS Group
   Feature Test / Product Verification						07/2000 – 07/2002
--	Terminal Maintenance system/feature testing:
--	test strategies design
--	test plan writing
--	test execution and software debugging 
+-	Telecommunication system/feature testing:
+  -	test strategies design
+  -	test plan writing
+  -	test execution and software debugging 
 
 ## Company community contributions:
 
